@@ -29,4 +29,6 @@ This repository contains code for generating videos from text using the Text-to-
 
 *You can use this code block as is for your own good. Let me know if you need any further stuff!*
 
+### This is how output video and UI should look like in the end:
+[![image-2024-02-07-164154550.png](https://i.postimg.cc/cCBvdbfK/image-2024-02-07-164154550.png)](https://postimg.cc/q6gJLQb0)
 
