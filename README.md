@@ -27,6 +27,6 @@ This repository contains code for generating videos from text using the Text-to-
 - Enjoy exploring the capabilities of text-to-video synthesis!
 
 
-*You can use this code block as is for your README file. Let me know if you need any further assistance!*
+*You can use this code block as is for your own good. Let me know if you need any further stuff!*
 
 
